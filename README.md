@@ -1,12 +1,11 @@
-# Stylish Portolio template for Jekyll
+# fevelex.es
 
-A Jekyll implementation of the [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) template by [Start Bootstrap](http://startbootstrap.com/).
+## About
 
-See the site in action at https://volny.github.io/stylish-portfolio-jekyll/
+A Jekyll implementation of the [Stylish Portfolio Theme](http://startbootstrap.com/template-overviews/stylish-portfolio/) template by [Start Bootstrap](http://startbootstrap.com/).
 
-## To use the Stylish Portfolio template in your project
+See the site in action at https://fevelex.es
 
-- Start by adding your info in `_config.yml`
-- Add as many address lines as you want. Your address will also be used to show your location on the map.
-- For the emdeded map to work you'll need to [get a key from Google Maps Embed API](https://developers.google.com/maps/documentation/embed/?hl=en)
-- In `_layouts/front.html` reorder or remove section as you prefer.
+## Authors
+
+This website has been developed by [Alberto Pastor Moreno](https://github.com/albertopastormr) and [Iván Fernández Mena](https://github.com/ivanfermena)

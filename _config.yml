@@ -9,7 +9,7 @@ url: "pinkat.github.io" # the base hostname & protocol for your site
 
 # User setting
 owner: Fevelex
-email: 
+email: soniafevel@fevelex.es
 facebook_username:
 twitter_username:
 address:
@@ -17,10 +17,7 @@ address:
   - line:
   # Feel free to add more lines here 
 telephone: 
-copyright:
-
-# API settings
-google_api_key: AIzaSyCW5R8jYDNDE4tq2_zkvQENgrO_nR63Ua8
+copyright: Pinkat
 
 # Build settings
 markdown: kramdown
