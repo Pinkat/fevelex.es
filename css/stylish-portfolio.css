@@ -20,13 +20,15 @@ body {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
+    color: #E5E7E9;
 }
 
 .text-vertical-center h1 {
     margin: 0;
     padding: 0;
-    font-size: 4.5em;
+    font-size: 6em;
     font-weight: 700;
+    text-shadow: 2px 2px 20px #000000;
 }
 
 /* Custom Button Styles */
