@@ -2099,6 +2099,8 @@ pre code {
   }
   .col-lg-10 {
     width: 83.33333333%;
+    margin-left: 15%;
+    margin-right: 15%;
   }
   .col-lg-9 {
     width: 75%;
