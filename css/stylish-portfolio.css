@@ -98,7 +98,7 @@ hr.small {
 }
 
 .sidebar-nav li a {
-    font-size: 2em;
+    font-size: 1.5em;
     display: block;
     text-decoration: none;
     color: #999;
@@ -117,7 +117,7 @@ hr.small {
 
 .sidebar-nav > .sidebar-brand {
     height: 55px;
-    font-size: 1.5em;
+    font-size: 1em;
     line-height: 55px;
 }
 
