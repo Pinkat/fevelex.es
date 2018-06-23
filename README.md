@@ -2,7 +2,7 @@
 
 ## About
 
-A [Jekyll](http://jekyllthemes.org/) implementation of the [Stylish Portfolio Theme](http://startbootstrap.com/template-overviews/stylish-portfolio/) template by [Start Bootstrap](http://startbootstrap.com/).
+A [Jekyll](https://jekyllrb.com/) implementation of the [Stylish Portfolio Theme](http://startbootstrap.com/template-overviews/stylish-portfolio/) template by [Start Bootstrap](http://startbootstrap.com/).
 
 See the site in action at https://fevelex.es
 
