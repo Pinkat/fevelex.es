@@ -1612,8 +1612,6 @@ pre code {
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px;
-  margin-left: 15%;
-  margin-right: 15%;
 }
 .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
   float: left;
@@ -2099,8 +2097,6 @@ pre code {
   }
   .col-lg-10 {
     width: 83.33333333%;
-    margin-left: 15%;
-    margin-right: 15%;
   }
   .col-lg-9 {
     width: 75%;
@@ -3350,8 +3346,8 @@ fieldset[disabled] .btn-link:focus {
 .btn-lg,
 .btn-group-lg > .btn {
   padding: 10px 16px;
-  font-size: 3.5em;
-  line-height: 1em;
+  font-size: 18px;
+  line-height: 1.3333333;
   border-radius: 6px;
 }
 .btn-sm,
