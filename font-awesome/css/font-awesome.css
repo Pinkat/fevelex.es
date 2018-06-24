@@ -826,8 +826,14 @@
 .fa-cloud-download:before {
   content: "\f0ed";
 }
+.fa-university-download:before {
+  content: "\f19c";
+}
 .fa-cloud-upload:before {
   content: "\f0ee";
+}
+.fa-university-update:before {
+  content: "\f19c";
 }
 .fa-user-md:before {
   content: "\f0f0";
