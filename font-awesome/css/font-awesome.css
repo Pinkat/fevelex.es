@@ -1635,6 +1635,9 @@
 .fa-area-chart:before {
   content: "\f1fe";
 }
+.fa-building-o::before {
+  content: "\f0f7";
+}
 .fa-pie-chart:before {
   content: "\f200";
 }
