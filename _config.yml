@@ -1,22 +1,21 @@
 # Site settings
 title: Fevelex
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+
 baseurl: "pinkat.github.io" # the subpath of your site, e.g. /blog/
 url: "pinkat.github.io" # the base hostname & protocol for your site
 
 # User setting
 owner: Fevelex
 email: soniafevel@fevelex.es
-facebook_username:
+facebook_username: 
 twitter_username:
 address:
-  - line: Algete
-  - line: 4º A
+  - line: C/PUERTO RICO - Nº4
+  - line: AREA EMPRESARIAL
+  - line: 28220 MAJADAHONDA - MADRID
   # Feel free to add more lines here 
-telephone: 678 678 678
+telephone: 633 910 127
 copyright: Pinkat
 
 # Build settings
