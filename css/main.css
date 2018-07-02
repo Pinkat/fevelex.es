@@ -73,11 +73,20 @@ h1,h2,h3,h4,h5,h6 {
   margin-right: 5%;
 }
 
+.h4-services-extend {
+  font-size: 2rem;
+}
+
+.h2-services-extend {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
 p {
 	font-family: Poppins-Regular;
-	font-size: 14px;
+	font-size: 1.8em;
 	line-height: 1.7;
-  color: white;
+  color: black;
 	margin: 0px;
 }
 
