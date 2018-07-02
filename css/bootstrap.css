@@ -1383,6 +1383,13 @@ a.text-danger:hover {
 a.bg-primary:hover {
   background-color: #337ab7 !important;
 }
+.bg-primary-extend {
+  color: #000000;
+  background-color: #ffffff !important;
+}
+a.bg-primary-extend:hover {
+  background-color: #ffffff !important;
+}
 .bg-success {
   background-color: #dff0d8;
 }
