@@ -1441,10 +1441,6 @@ ol ol {
   list-style: none;
 }
 
-.list-unstyled{
-  font-size: 1.8rem;
-}
-
 .list-inline {
   padding-left: 0;
   margin-left: -5px;

@@ -185,6 +185,10 @@ hr.small {
     margin-bottom: 30px;
 }
 
+.service-item p {
+    color: #000000;
+}
+
 /* Callout */
 
 .callout {
