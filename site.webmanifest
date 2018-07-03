@@ -1,0 +1,19 @@
+{
+    "name": "Fevelex",
+    "short_name": "Fevelex",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png?v=GvkzWQlkBj",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-256x256.png?v=GvkzWQlkBj",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#cffcff",
+    "background_color": "#cffcff",
+    "display": "standalone"
+}
