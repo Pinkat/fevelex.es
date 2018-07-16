@@ -1,12 +1,12 @@
 <?php
 
-$EmailFrom = "chriscoyier@gmail.com";
-$EmailTo = "brokerp18@gmail.es";
+$EmailTo = "ivanfermena@gmail.es";
 $Subject = "FEVELEX WEBSITE CONTACT FORM";
-$Name = Trim(stripslashes($_POST['first-name'])); 
-$Tel = Trim(stripslashes($_POST['phone'])); 
-$Email = Trim(stripslashes($_POST['email'])); 
-$Message = Trim(stripslashes($_POST['message'])); 
+$Name = $_POST["first-name"]; 
+$lastName = $_POST["last-name"]; 
+$Email = $_POST["email"]; 
+$Tel = $_POST["phone"]; 
+$Message = $_POST["message"]; 
 
 // validation
 $validationOK=true;
@@ -31,6 +31,6 @@ $Body .= $Message;
 $Body .= "\n";
 
 // send email 
-$success = mail($EmailTo, $Subject, $Body, "From: <$EmailFrom>");
+$success = mail($EmailTo, $Subject, $Body, $Email);
 
 ?>
