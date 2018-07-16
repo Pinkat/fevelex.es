@@ -31,6 +31,6 @@ $Body .= $Message;
 $Body .= "\n";
 
 // send email 
-$success = mail($EmailTo, $Subject, $Body,"hola", $Email);
+$success = mail($EmailTo, $Subject, $Body, 'hola');
 
 ?>
